@@ -1,0 +1,204 @@
+{
+  "meta": {
+    "theme": "onepage"
+  },
+  "basics": {
+    "name": "Madeline Dexter",
+    "label": "Data Developer",
+    "email": "madeline.dexter@icloud.com",
+    "phone": "(312) 866-4702",
+    "url": "https://github.com/madeline-dexter",
+    "summary": "Madeline is a data developer with experience in database management, ETL development, data warehousing, cloud infrastructure, business analytics, and peer mentorship. She has architected data flow patterns for a range of companies with products like Snowflake, Redshift, RDS, Kubernetes, Terraform, Docker and Jenkins. Madeline works in languages like Python, Java, and various SQL and shell scripting dialects. In addition to tech, Madeline is passionate about music, languages, cooking, beer, and trans rights.",
+    "location": {
+      "address": "3611 University Dr Apt 21T",
+      "postalCode": "NC 27707",
+      "city": "Durham",
+      "countryCode": "US",
+      "region": "North Carolina"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "madeline-dexter",
+        "url": "https://github.com/madeline-dexter"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Vivid Seats",
+      "location": "Chicago, IL",
+      "description": "Online ticket marketplace where fans can buy and sell tickets to sports, concerts, and theater events nationwide",
+      "position": "Senior Data Engineer",
+      "url": "https://vividseats.com",
+      "startDate": "2020-01-01",
+      "endDate": "2022-05-31",
+      "summary": "",
+      "highlights": [
+        "Wrote and deployed microservices to enable codependent RDS/Snowflake migrations",
+        "Deployed and managed infrastructure to support company adoption of microservices",
+        "Upgraded and debugged OLTP & OLAP RDS instances with minimal impact to production",
+        "Developed a user identity, role, and warehouse management system for Snowflake/Azure",
+        "Developed a task execution model for extraction of OLTP data into cached Snowflake views"
+      ]
+    },
+    {
+      "name": "KAR Auction Services",
+      "location": "Chicago, IL",
+      "description": "Company that provides sellers and buyers across the global wholesale used-vehicle industry with technology-driven remarketing solutions",
+      "position": "Data Engineer",
+      "url": "https://karglobal.com",
+      "startDate": "2018-05-01",
+      "endDate": "2019-12-31",
+      "summary": "",
+      "highlights": [
+        "Developed database models and views for ingestion and analysis of inbound data",
+        "Wrote a common tools package for Python to perform uniform ETL ingestion of company data",
+        "Wrote, deployed, and managed EMR jobs to process big data sets with PySpark",
+        "Designed and maintained an S3 data lake to structure inbound vendor data-of-record",
+        "Dockerized existing ETL jobs and deployed them to ECS with Terraform"
+      ]
+    },
+    {
+      "name": "ReviewLabs",
+      "location": "Plaistow, NH",
+      "description": "Company which provided business intelligence services for Amazon merchants",
+      "position": "Co-founder and CFO",
+      "url": "",
+      "startDate": "2016-09-01",
+      "endDate": "2018-01-31",
+      "summary": "",
+      "highlights": [
+        "Created the ReviewLabs business model and develop with two co-founders",
+	"Performed legal and accounting work e.g. incorporation, bookkeeping, and contracting",
+	"Designed all marketing materials including web assets and promotional videos"
+      ]
+    },
+    {
+      "name": "Discover Financial Services",
+      "location": "Chicago, IL",
+      "description": "Financial services company that offers checking and savings accounts, personal loans, home equity loans, student loans and credit cards",
+      "position": "Senior Data Consultant",
+      "url": "https://discover.com",
+      "startDate": "2015-05-01",
+      "endDate": "2017-02-28",
+      "summary": "",
+      "highlights": [
+        "Managed a company-wide intranet reporting site for collections inventory analysis",
+	"Facilitated A/B testing on strategic initiatives and reported on the results",
+	"Identified and worked with IT teams to resolve data warehousing integrity issues"
+      ]
+    },
+    {
+      "name": "Discover Financial Services",
+      "location": "Salt Lake City, UT",
+      "description": "Financial services company that offers checking and savings accounts, personal loans, home equity loans, student loans and credit cards",
+      "position": "Reporting Manager",
+      "url": "https://discover.com",
+      "startDate": "2013-05-01",
+      "endDate": "2014-12-31",
+      "summary": "",
+      "highlights": [
+        "Managed a team of analysts who administered a database and intranet reporting site",
+	"Collaborated with department leaders to leverage data assets into actionable intelligence",
+	"Hired and mentored reporting analysts and performed regular performance evaluations"
+      ]
+    },
+    {
+      "name": "Discover Financial Services",
+      "location": "Salt Lake City",
+      "description": "Financial services company that offers checking and savings accounts, personal loans, home equity loans, student loans and credit cards",
+      "position": "Reporting Analyst",
+      "url": "https://discover.com",
+      "startDate": "2012-04-01",
+      "endDate": "2013-04-30",
+      "summary": "",
+      "highlights": [
+        "Co-administered a department-wide performance reporting and analysis intranet website",
+	"Co-developed and maintained a MySQL database as a backend for the reporting website",
+	"Developed applications to satisfy compliance requirements and performance initiatives"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Utah",
+      "url": "https://utah.edu/",
+      "area": "Finance",
+      "studyType": "Master's Degree",
+      "startDate": "2012-08-01",
+      "endDate": "2014-05-31"
+    },
+    {
+      "institution": "University of Alabama",
+      "url": "https://ua.edu/",
+      "area": "Finance/Economics",
+      "studyType": "Bachelor of Business Administration",
+      "startDate": "2006-08-01",
+      "endDate": "2010-12-31"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Data",
+      "level": "Advanced",
+      "keywords": [
+        "SQL", "Snowflake", "RDS", "MySQL", "PostgreSQL", "Redshift", "BigQuery", "S3", "Airflow"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Advanced",
+      "keywords": [
+        "AWS", "Azure", "GCP", "Terraform", "Kubernetes", "Docker", "Jenkins", "ECS", "Lambda"
+      ]
+    },
+    {
+      "name": "General",
+      "level": "Intermediate",
+      "keywords": [
+        "GitHub", "Jira", "Confluence", "Statuspage", "OpsGenie", "Slack", "Zoom"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Beginner"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Music",
+      "keywords": [
+        "Guitar",
+	"Metal",
+	"Hip-hop"
+      ]
+    },
+    {
+      "name": "Cooking",
+      "keywords": [
+        "Thai",
+	"Japanese",
+        "Fusion"
+      ]
+    },
+    {
+      "name": "Beer",
+      "keywords": [
+        "IPAs",
+	"Sours",
+	"Lagers"
+      ]
+    }
+  ]
+}
