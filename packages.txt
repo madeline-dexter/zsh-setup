@@ -19,6 +19,7 @@
 
 # brew install --cask docker
 # brew install --cask firefox
+# brew install --cask postman
 # brew install --cask steam
 # brew install --cask visual-studio-code
 
