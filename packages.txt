@@ -4,6 +4,7 @@
 # brew install awscli
 # brew install docker
 # brew install freeciv
+# brew install gcc
 # brew install gh
 # brew install git
 # brew install jq
@@ -18,6 +19,7 @@
 
 # brew install --cask docker
 # brew install --cask firefox
+# brew install --cask steam
 # brew install --cask visual-studio-code
 
 # curl -s "https://get.sdkman.io" | bash
