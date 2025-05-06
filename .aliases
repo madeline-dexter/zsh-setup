@@ -1,0 +1,7 @@
+alias ..="cd .."
+alias ...="cd ..."
+alias c="clear"
+alias work="cd $WORK"
+
+alias tf="terraform"
+alias venv="virtualenv"

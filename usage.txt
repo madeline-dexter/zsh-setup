@@ -1,0 +1,6 @@
+## Create a remote repository from an existing local repository
+## gh repo create <reponame> --public --source .
+
+## Create a gh alias to source a .gitignore from the official GitHub templates
+# gh alias set --shell .gitignore 'gh api -X GET /gitignore/templates/"$1" --jq ".source"'
+## gh .gitignore <Filename> >> .gitignore

@@ -1,0 +1,31 @@
+# /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+# sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+# brew install awscli
+# brew install docker
+# brew install freeciv
+# brew install gcc
+# brew install gh
+# brew install git
+# brew install jq
+# brew install mysql
+# brew install node
+# brew install pass
+# brew install pyenv
+# brew install zsh
+
+# brew install dotenvx/brew/dotenvx
+
+# brew install hashicorp/tap/terraform
+# terraform -install-autocomplete
+
+# brew install --cask docker
+# brew install --cask firefox
+# brew install --cask postman
+# brew install --cask steam
+# brew install --cask visual-studio-code
+
+# curl -s "https://get.sdkman.io" | bash
+# source "$HOME/.sdkman/bin/sdkman-init.sh"
+# sdk install java
+# brew install jenv
